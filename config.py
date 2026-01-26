@@ -9,17 +9,17 @@ API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 
 BOT_TOKEN = getenv("BOT_TOKEN")
-OWNER_USERNAME = getenv("OWNER_USERNAME","lll_TOXICC_PAPA_lll")
-BOT_USERNAME = getenv("BOT_USERNAME" , "ytxmusic_bot")
-BOT_NAME = getenv("BOT_NAME" , "𝐘𝐓 ꭙ ᴍᴜsɪᴄ˼ ㋛︎")
-ASSUSERNAME = getenv("ASSUSERNAME" , "TOXIC")
+OWNER_USERNAME = getenv("OWNER_USERNAME","oye_sparsh")
+BOT_USERNAME = getenv("BOT_USERNAME" , "ShizukaXmusicprobot")
+BOT_NAME = getenv("BOT_NAME" , "˹𝐒ʜɪᴢᴜᴋᴀ ☞♪ 𝐌ᴜsɪᴄ˼™ 🌷 [ 𝐍ᴏ 𝐀ᴅs ]™")
+ASSUSERNAME = getenv("ASSUSERNAME" , "SPARSH")
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
-LOGGER_ID = int(getenv("LOGGER_ID", -1002584168578))
-OWNER_ID = int(getenv("OWNER_ID", 7995626429))
+LOGGER_ID = int(getenv("LOGGER_ID", -1003471039882))
+OWNER_ID = int(getenv("OWNER_ID", 8432723762))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/toxicpapa00/opmusic",)
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/sparsh260707/musicxbot",)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
@@ -28,8 +28,8 @@ YT_API_KEY = getenv("YT_API_KEY" , None )
 
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kittuu_updates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+xxpR_3jfLFhkYjNl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/codebotnetwork")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+7wa7gsmeeusxMmE1")
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
@@ -52,18 +52,18 @@ lyrical = {}
 votemode = {}
 autoclean = []
 confirmer = {}
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/zlryq3.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/gs8t6g.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/6wp187.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/6wp187.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/6wp187.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/6wp187.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/6wp187.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/2y5o3g.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/2y5o3g.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/wulesi.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/wulesi.jpg")
+PLAYLIST_IMG_URL = "https://files.catbox.moe/wulesi.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/wulesi.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/wulesi.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/wulesi.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/wulesi.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/wulesi.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/wulesi.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/wulesi.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/wulesi.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/wulesi.jpg"
 def time_to_seconds(time):
     stringt = str(time)
     return sum(int(x) * 60**i for i, x in enumerate(reversed(stringt.split(":"))))
