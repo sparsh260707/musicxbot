@@ -24,7 +24,7 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') 
-YT_API_KEY = getenv("YT_API_KEY" , None ) 
+YT_API_KEY = getenv("YT_API_KEY" , 'NxGBNexGenBotsf223c7') 
 
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
