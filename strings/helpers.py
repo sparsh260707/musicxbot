@@ -9,7 +9,7 @@ HELP_1 = """```
 ❍ /player : ɢєᴛ ᴧ ɪηᴛєʀᴧᴄᴛɪᴠє ᴩʟᴧʏєʀ ᴩᴧηєʟ
 ❍ /queue : sʜσᴡs ᴛʜє ǫυєυєᴅ ᴛʀᴧᴄᴋs ʟɪsᴛ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ᴄᴏᴅᴇ ʙᴏᴛ ɴᴇᴛᴡᴏʀᴋ](https://t.me/oye_Sparsh)**
 """
 
 HELP_2 = """```
@@ -20,7 +20,7 @@ HELP_2 = """```
 ❍ /unauth [υsєʀηᴧϻє/υsєʀ_ɪᴅ] : ʀєϻσᴠє ᴧ ᴧυᴛʜ υsєʀs ғʀσϻ ᴛʜє ᴧυᴛʜ υsєʀs ʟɪsᴛ
 ❍ /authusers : sʜσᴡs ᴛʜє ʟɪsᴛ σғ ᴧυᴛʜ υsєʀs σғ ᴛʜє ɢʀσυᴩ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ᴄᴏᴅᴇ ʙᴏᴛ ɴᴇᴛᴡᴏʀᴋ](https://t.me/oye_spars)**
 """
 
 HELP_3 = """```
@@ -37,7 +37,7 @@ HELP_3 = """```
 
 ❖ єxᴧϻᴩʟє:</b> <code>/broadcast -user -assistant -pin ᴛєsᴛɪηɢ ʙʀσᴧᴅᴄᴧsᴛ</code>
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ᴄᴏᴅᴇ ʙᴏᴛ ɴᴇᴛᴡᴏʀᴋ](https://t.me/oye_sparsh)**
 """
 
 HELP_4 = """```
@@ -48,7 +48,7 @@ HELP_4 = """```
 ❍ /whitelistchat [ᴄʜᴧᴛ ɪᴅ] : ᴡʜɪᴛєʟɪsᴛ ᴛʜє ʙʟᴧᴄᴋʟɪsᴛєᴅ ᴄʜᴧᴛ
 ❍ /blacklistedchat : sʜσᴡs ᴛʜє ʟɪsᴛ σғ ʙʟᴧᴄᴋʟɪsᴛєᴅ ᴄʜᴧᴛs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪᴛᴛυ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_TOXICC_PAPA_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ᴄᴏᴅᴇ ʙᴏᴛ ɴᴇᴛᴡᴏʀᴋ](https://t.me/oye_sparsh)**
 """
 
 HELP_5 = """```
