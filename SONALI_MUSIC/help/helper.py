@@ -1,4 +1,4 @@
-# MADE BY - TOXIC BABY
+# MADE BY - SPARSH BAB
 
 class Helper(object):
     HELP_M = '''```
@@ -50,7 +50,7 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @ytcmusic_bot @oye_sparsh I love You 😘
+ єxᴧϻᴘʟє : @ShizukaXmusicprobot @oye_sparsh I love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
@@ -81,7 +81,7 @@ class Helper(object):
 
 ❍ /font [ᴛєxᴛ]**
 ```
-❖ єxᴧϻᴘʟє : /font Toxic Baby```
+❖ єxᴧϻᴘʟє : /font SPARSH BABY```
 
 **❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ᴄᴏᴅᴇ ʙᴏᴛ ɴᴇᴛᴡᴏʀᴋ](https://t.me/oye_sparsh) **
 '''
