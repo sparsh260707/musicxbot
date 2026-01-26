@@ -23,9 +23,10 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/sparsh260707/musicxb
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') 
-YT_API_KEY = getenv("YT_API_KEY" , 'NxGBNexGenBotsf223c7') 
-
+# ────────── API ENDPOINTS ──────────
+API_URL = getenv("API_URL", "https://api.nexgenbots.xyz")
+VIDEO_API_URL = getenv("VIDEO_API_URL", "https://api.video.nexgenbots.xyz")
+API_KEY = getenv("API_KEY", "NONE")
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/codebotnetwork")
