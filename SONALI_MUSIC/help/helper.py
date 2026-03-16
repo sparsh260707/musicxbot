@@ -27,7 +27,7 @@ class Helper(object):
 
 ❍ /ask [ǫυєʀʏ] : sєᴧʀᴄʜ ᴛʜє ᴧηʏ ᴛʏᴘє ǫυєsᴛɪση
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [ᴄᴏᴅᴇ ʙᴏᴛ ɴᴇᴛᴡᴏʀᴋ](https://t.me/oye_sparsh)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯⁠⁠⁠⁠‌⎯⁠⁠⁠‌ 𝚂꯭‌𝚙꯭‌𝚊꯭‌𝚛꯭‌𝚜꯭‌𝚑꯭‌𝅃⁠⁠⁠ꀭ꯭‧₊꯭♡゙꯭꯬ #Destiny](https://t.me/Yourdaddysparsh)**
 '''
 
 
@@ -50,7 +50,7 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @ShizukaXmusicprobot @oye_sparsh I love You 😘
+ єxᴧϻᴘʟє : @cokestudioprobot @yourdaddysparsh love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
