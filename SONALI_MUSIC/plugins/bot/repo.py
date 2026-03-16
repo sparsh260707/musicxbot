@@ -7,13 +7,13 @@ import httpx
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_txt = """**
-<u>❃ ᴡєʟᴄσϻє ᴛᴏ ᴄᴏᴅᴇ ʙᴏᴛ ɴᴇᴛᴡᴏʀᴋ ʀєᴘσs ❃</u>
+<u>❃ ᴡєʟᴄσϻє ᴛᴏ ⎯⁠⁠⁠⁠‌⎯⁠⁠⁠‌ 𝚂꯭‌𝚙꯭‌𝚊꯭‌𝚛꯭‌𝚜꯭‌𝚑꯭‌𝅃⁠⁠⁠ꀭ꯭‧₊꯭♡゙꯭꯬ #Destiny ʀєᴘσs ❃</u>
  
 ✼ ʀєᴘᴏ ɪs ηᴏᴡ ᴘʀɪᴠᴧᴛє ᴅᴜᴅє 😌
  
 ❉  ʏᴏᴜ ᴄᴧη мʏ ᴜsє ᴘᴜʙʟɪᴄ ʀєᴘσs !!  
 
-✼ || [ᴄᴏᴅᴇ ʙᴏᴛ ɴᴇᴛᴡᴏʀᴋ](https://t.me/codebotnetwork) ||
+✼ || [⎯⁠⁠⁠⁠‌⎯⁠⁠⁠‌ 𝚂꯭‌𝚙꯭‌𝚊꯭‌𝚛꯭‌𝚜꯭‌𝚑꯭‌𝅃⁠⁠⁠ꀭ꯭‧₊꯭♡゙꯭꯬ #Destiny](https://t.me/codebotnetwork) ||
  
 ❊ ʀᴜη 24x7 ʟᴧɢ ϝʀєє ᴡɪᴛʜσᴜᴛ sᴛσᴘ**
 """
