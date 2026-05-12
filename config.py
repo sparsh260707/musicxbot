@@ -26,7 +26,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 # ────────── API ENDPOINTS ──────────
 API_URL = getenv("API_URL", "https://api.nexgenbots.xyz")
 VIDEO_API_URL = getenv("VIDEO_API_URL", "https://api.video.nexgenbots.xyz")
-API_KEY = getenv("API_KEY", "NONE")
+API_KEY = getenv("API_KEY", "30DxNexGenBotsb04075")
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AURA_NETWORKS")
